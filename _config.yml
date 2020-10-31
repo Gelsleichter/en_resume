@@ -4,28 +4,28 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Yuri Gelsleichter
-title: Doctor of Science, Tecnlogy and Innovation in Pecuary
+title: Doctor in Science, Technology and Innovation in Agriculture 
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: www.Gelsleichter.github.io
 
 # Social links
 # twitter_username: facespics
-github_username:  sproogen
+github_username:  Gelsleichter
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: YuriGelsleichter
+linkedin_username: YuriGelsleichter
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: YuriGelsleichter
 # googleplus_username: +jekyll
 
 # About Section 
-about_title: Sobre mim EN
+about_title: About me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>.  [Veja este currículo em português (this resume in Portuguese)](https://gelsleichter.github.io/port_resume/) ### bandeira em merkdow emoji, não fuinciona
+  Hi, my name's Yuri and I'm a specialist in Soil Mapping and remote Senssing. As well as R programing Language. 
+  I am most skilled in: <mark>R coding</mark> and <mark>GIS</mark>.  [Veja este currículo em português (this resume in Portuguese)](https://gelsleichter.github.io/port_resume/) ### bandeira em merkdow emoji, não fuinciona
 # Projects Section 
 projects_title: Meus Projetos
 
@@ -36,6 +36,14 @@ projects_title: Meus Projetos
 # educaton_title: Education 
 
 # More Section
+more_title: International Experiences
+more_content: | # this will include new lines to allow paragraphs
+  Schollarships
+   - Hungary 2013-2014, Undergrad Level (Brazilian Govenament, CAPES)
+   - Hungary 2017-2018, PhD level, contribution on Universal Soil Classification Systems
+   - The Netherlands, [ISRIC](https://www.isric.org/), Development of Landuse Scenarios for future soil carbon stocks
+   
+# More Section
 more_title: A Little More About Me 
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
@@ -43,6 +51,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - Knitting
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
 # Footer
 footer_show_references: true
 
