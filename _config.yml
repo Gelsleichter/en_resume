@@ -38,9 +38,9 @@ projects_title: Meus Projetos
 # Education Section 
 # educaton_title: Education 
 
-**More Section**
-more_title: **International Experiences**
-more_content: | # this will include new lines to allow paragraphs
+# internation xp Section
+intern_experience_title: International Experiences**
+intern_experience_content: | # this will include new lines to allow paragraphs
   Schollarships
    - Hungary 2013-2014, Undergrad Level (Brazilian Govenament, CAPES)
    - Hungary 2017-2018, PhD level, contribution on Universal Soil Classification Systems
