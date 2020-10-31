@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Yuri Gelsleichter
-title: Doctor of Science, Tecnlogy and Innovation in Pecuary [Versão em português](https://gelsleichter.github.io/en_resume/) ### bandeira em merkdow emoji, não fuinciona
+title: Doctor of Science, Tecnlogy and Innovation in Pecuary
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
@@ -25,7 +25,7 @@ about_title: Sobre mim EN
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>.  [Veja este currículo em português (this resume in Portuguese)](https://gelsleichter.github.io/port_resume/) ### bandeira em merkdow emoji, não fuinciona
 # Projects Section 
 projects_title: Meus Projetos
 
