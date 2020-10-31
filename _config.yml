@@ -36,14 +36,6 @@ projects_title: My Projects
 # Education Section 
 # educaton_title: Education 
 
-# internation xp Section
-intexperience_title: International Experiences
-intexperience_content: | # this will include new lines to allow paragraphs
-  Schollarships
-   - Hungary 2013-2014, Undergrad Level (Brazilian Govenament, CAPES)
-   - Hungary 2017-2018, PhD level, contribution on Universal Soil Classification Systems
-   - The Netherlands, [ISRIC](https://www.isric.org/), Development of Landuse Scenarios for future soil carbon stocks
-   
 # More Section
 more_title: A Little More About Me 
 more_content: | # this will include new lines to allow paragraphs
@@ -52,7 +44,6 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - Knitting
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-   - <i class="france flag"></i>
 
 
 # Footer
