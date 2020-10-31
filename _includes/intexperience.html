@@ -1,6 +1,0 @@
-<div class="container intexperience-container">
-  <h3>{{ site.intexperience_title | default: "International Experience" }}</h3>
-  {% for intexperience in site.data.intexperience %}
-    {% include {{ intexperience.layout | default: 'left' | append: ".html" }} item=intexperience %}
-  {% endfor %}
-</div>
