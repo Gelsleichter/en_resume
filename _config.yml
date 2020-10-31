@@ -25,7 +25,9 @@ about_title: About me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yuri and I'm a specialist in Soil Mapping and remote Senssing. As well as R programing Language. 
-  I am most skilled in: <mark>R coding</mark> and <mark>GIS</mark>.  [Veja este currículo em português (this resume in Portuguese)](https://gelsleichter.github.io/port_resume/) ### bandeira em merkdow emoji, não fuinciona
+  I am most skilled in: <mark>R coding</mark> and <mark>GIS</mark>.  [This resume in Portuguese](https://gelsleichter.github.io/port_resume/) (Veja este currículo em português) :brazil:  
+  
+### bandeira em merkdow emoji, não fuinciona
 # Projects Section 
 projects_title: Meus Projetos
 
