@@ -27,10 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yuri and I'm a specialist in Soil Mapping and remote Senssing. As well as R programing Language. 
   I am most skilled in: <mark>R coding</mark> and <mark>GIS</mark>.  [This resume in Portuguese](https://gelsleichter.github.io/port_resume/) (Veja este currículo em português) ::brazil::  <i class="france flag"></i>
   
-  
-### bandeira em merkdow emoji, não fuinciona
 # Projects Section 
-projects_title: Meus Projetos
+projects_title: My Projects asdkjhasjkhd
 
 # Experience Section 
 # experience_title: Experience 
@@ -39,7 +37,7 @@ projects_title: Meus Projetos
 # educaton_title: Education 
 
 # internation xp Section
-intern_experience_title: International Experiences**
+intern_experience_title: International Experiences
 intern_experience_content: | # this will include new lines to allow paragraphs
   Schollarships
    - Hungary 2013-2014, Undergrad Level (Brazilian Govenament, CAPES)
@@ -54,6 +52,8 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - Knitting
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - <i class="france flag"></i>
+
 
 # Footer
 footer_show_references: true
