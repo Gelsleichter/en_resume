@@ -48,9 +48,9 @@ experience_title: International Experiences
 educaton_title: Education 
 
 # More Section
-more_title: A Little More About Me 
+more_title: Recent Publications
 more_content: | # this will include new lines to allow paragraphs
-  Trabalhos mais relevantes: 
+  Relevant studies: 
   
   Enhancing Soil Mapping with Hyperspectral Subsurface Images generated from soil lab Vis-SWIR spectra tested in southern Brazil; 2023; 
   Gelsleichter, Y.A.; Costa, E.M,; Anjos, L.H.C.; Marcondes, R.A.T; [doi](https://doi.org/10.1016/j.geodrs.2023.e00641)
