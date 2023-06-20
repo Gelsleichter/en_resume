@@ -23,7 +23,7 @@ linkedin_username: yurigelsleichter
 
 # About Section 
 about_title: About me
-about_profile_image: https://github.com/Gelsleichter/port_resume/blob/main/images/yuri_profile.jpg
+about_profile_image: github.com/Gelsleichter/port_resume/blob/main/images/yuri_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am Yuri Andrei Gelsleichter, Mechanical Technician (IFSC, 2004), Environmental Engineer (UNISUL, 2015), PhD in Science, 
   Technology and Innovation in Agriculture (UFRRJ, 2020), Postdoctoral Researcher (Hungarian University of Agricultural Sciences, 2023). 
