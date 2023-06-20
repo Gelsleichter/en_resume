@@ -1,27 +1,27 @@
-layout: left
-name: Federal Rural University of Rio de Janeiro
-dates: 2017 - 2020
-qualification: Doctor in Science, Technology and Innovation in Agriculture
-quote: >
-Founded in 1910, UFRRJ has a tradition in Agronomy research and teaching
-description: | # this will include new lines to allow paragraphs
-At this stage of my professional life, I gained a great deal of knowledge about Soils and
-Remote Sensing and Geographic Information Systems applied in R programming, where I also learned about data flow and automation
+- layout: left
+  name: Federal Rural University of Rio de Janeiro
+  dates: 2017 - 2020
+  qualification: Doctor in Science, Technology and Innovation in Agriculture
+  quote: >
+   Founded in 1910, UFRRJ has a tradition in Agronomy research and teaching
+  description: | # this will include new lines to allow paragraphs
+   At this stage of my professional life, I gained a great deal of knowledge about Soils and 
+   Remote Sensing and Geographic Information Systems applied in R programming, where I also learned about data flow and automation
 
-layout: left
-name: University of Southern Santa Catarina
-dates: 2009 - 2015
-qualification: Bachelor in Environmental and Sanitary Engineering
-quote: >
-UNISUL is consolidated as an educational hub in Greater Florianopolis
-description: | # this will include new lines to allow paragraphs
-In addition to understanding environmental management, water and waste treatment, I was awakened to Remote Sensing and Geographic Information Systems
+- layout: left
+  name: University of Southern Santa Catarina
+  dates: 2009 - 2015
+  qualification: Bachelor in Environmental and Sanitary Engineering
+  quote: >
+   UNISUL is consolidated as an educational hub in Greater Florianopolis
+  description: | # this will include new lines to allow paragraphs
+   In addition to understanding environmental management, water and waste treatment, I was awakened to Remote Sensing and Geographic Information Systems
 
-layout: left
-name: Federal Institute of Santa Catarina
-dates: 2003 - 2004
-qualification: Industrial Mechanics Technician
-quote: >
-Created in 1909 in Florianopolis, Santa Catarina, IFSC has a tradition in teaching
-description: | # this will include new lines to allow paragraphs
-During the course, I gained a lot of knowledge about industrial mechanics including metrology, projects, and manufacturing processes
+- layout: left
+  name: Federal Institute of Santa Catarina
+  dates: 2003 - 2004
+  qualification: Industrial Mechanics Technician
+  quote: >
+   Created in 1909 in Florianopolis, Santa Catarina, IFSC has a tradition in teaching
+  description: | # this will include new lines to allow paragraphs
+   During the course, I gained a lot of knowledge about industrial mechanics including metrology, projects, and manufacturing processes
