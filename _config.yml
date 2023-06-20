@@ -1,10 +1,10 @@
 # Site
 repository: gelsleichter/en_resume
-favicon: images/favicon.ico
+favicon: https://github.com/Gelsleichter/port_resume/blob/main/images/Yuri_ico.png
 
 # Personal info
 name: Yuri Gelsleichter
-title: Doctor in Science, Technology and Innovation in Agriculture [CV em Português 🇧🇷](https://gelsleichter.github.io/port_resume/)
+title: Doctor in Science, Technology and Innovation in Agriculture
 email: yurigelsleichter@gmail.com
 # website: https://gelsleichter.github.io/ 
 website: https://datasitu.com
@@ -33,6 +33,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Currently also working with remote sensing, data mining and automation, and research in the area of soil classification and 
   spectroradiometry and precision agriculture. Co-funder of (Data Situ](https://datasitu.com).
+
+  [CV em Português 🇧🇷](https://gelsleichter.github.io/port_resume/)
    
 # Projects Section 
 projects_title: Projects
