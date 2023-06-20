@@ -1,8 +1,33 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
+  name: Open Science to Increase Reproducibility In Science (OSIRIS)
+  link: https://osiris4r.eu/
   github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+   Reproducibility in science needs to be standardized with protocols and checklists
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+   Reproducibility is essential for the quality of Research and Innovation (R&I) but is currently limited.
+   In the project, my role is to test and contribute to computational reproducibility, seeking to develop protocols and checklists
+   for improvement in R&I.
+
+- layout: top-middle
+  name: Soil mapping in Itatiaia National Park
+  link: doi.org/10.1016/j.geodrs.2023.e00641
+  github: sproogen/resume-theme
+  quote: >
+   The incredible thing about this project was to apply proximal remote sensing to satellite images to almost double the predictive capacity of the model
+  description: | # this will include new lines to allow paragraphs
+    Remote Sensing products are applicable for spatial prediction of soil properties, in the process called Digital Soil Mapping (DSM).
+
+    The aim of the study was to combine Vis-SWIR soil laboratory spectra with the DSM technique to create new hyperspectral images 
+    to use as covariates in a new soil mapping method. 
+    
+    The advantages of the method were demonstrated throughout the spatial prediction of Total Carbon content in soils from the upper part of the 
+    Itatiaia National Park. Using information from the Vis-SWIR spectra of the upper soil horizon from 72 points in the upper part of INP, 
+    130 hyperspectral images were generated, that is, subsurface hyperspectral image. The validation methods were 8-fold cross-validation (CV) 
+    and external validation executed using the Random Forest algorithm. 
+    
+    The DSM achieves a mean determination coefficient (R2) in the CV of 0.39 and Root Mean Square Error (RMSE) of 4.6, while the creation of a new model 
+    with a set of hyperspectral images gave a CV R2 of 0.60 and RMSE of 4.06. 
+    The method can be applied in dense or low vegetation areas, for agricultural or conservation purposes, for various soil properties, 
+    with all and each wavelength.
+    
